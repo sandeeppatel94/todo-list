@@ -1,2 +1,2 @@
 # TODO LIST 
-Here you add your todo and complete him after complete you can delete exixting todo.
+Here you add your task and complete him after complete your task you can delete exixting todo.
